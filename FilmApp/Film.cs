@@ -9,4 +9,4 @@ namespace FilmApp
         public string Cim { get; set; }
         public int HosszPercben { get; set; }
     }
-}
+}//
