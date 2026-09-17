@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="DiakApp/DiakApp.csproj" />
   <Project Path="FilmApp/FilmApp.csproj" />
   <Project Path="Homerseklet/Homerseklet.csproj" />
+  <Project Path="Kavezogep/Kavezogep.csproj" />
 </Solution>
