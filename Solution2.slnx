@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FilmApp/FilmApp.csproj" />
+  <Project Path="Homerseklet/Homerseklet.csproj" />
+</Solution>
